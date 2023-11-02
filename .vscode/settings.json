@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "arbre_suffixe.h": "c",
+        "element.h": "c"
+    }
+}
